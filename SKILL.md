@@ -4,7 +4,7 @@ description: Determine the proper limits of toleration and the boundaries of civ
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5201
+  version: 1.0.5202
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - toleration-framework
